@@ -1,0 +1,40 @@
+﻿{
+  "Wares": [
+    {
+      "Name": "Ware 1",
+      "Min-Price": "10",
+      "Max-Price": "15"
+    },
+
+    {
+      "Name": "Ware 2",
+      "Min-Price": "10",
+      "Max-Price": "50"
+    },
+    {
+      "Name": "Ware 3",
+      "Min-Price": "25",
+      "Max-Price": "100"
+    },
+    {
+      "Name": "Ware 4",
+      "Min-Price": "80",
+      "Max-Price": "230"
+    },
+    {
+      "Name": "Ware 5",
+      "Min-Price": "200",
+      "Max-Price": "300"
+    },
+    {
+      "Name": "Ware 6",
+      "Min-Price": "200",
+      "Max-Price": "500"
+    },
+    {
+      "Name": "Ware 7",
+      "Min-Price": "1000",
+      "Max-Price": "3000"
+    }
+  ]
+}
